@@ -1,4 +1,4 @@
 # rungame
 a mobile 2d 1p platformer
 
-play: http://legit.epizy.com/run/
+play:  https://phpstack-943074-3583151.cloudwaysapps.com/run/
